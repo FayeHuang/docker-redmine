@@ -1,7 +1,7 @@
 #!/bin/bash
 
 postgres_image=sameersbn/postgresql:9.4-12
-redmine_image=fayehuang/redmine:1.0
+redmine_image=fayehuang/redmine
 redmine_port=80
 postgres_port=5432
 redmine_file=/root/redmine/data/files
